@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  kusho-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-02-03T12:12:41.478671478Z"
+    description: A Helm chart for deploying Kusho backend, frontend, workers, and
+      jobs.
+    digest: 0c812204c6eb94de1e6ccf418bed74b6b16fab1135250d13ce0d4b0fb5fdc5dc
+    name: kusho-chart
+    type: application
+    urls:
+    - https://github.com/kusho-co/helm-charts/kusho-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-03T12:12:41.477008801Z"
