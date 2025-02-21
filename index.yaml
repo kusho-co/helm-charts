@@ -10,6 +10,6 @@ entries:
     name: kusho-chart
     type: application
     urls:
-    - https://kusho-co.github.io/helm-charts/kusho-chart-0.8.0.tgz
-    version: 0.8.0
+    - https://kusho-co.github.io/helm-charts/kusho-chart-0.9.0.tgz
+    version: 0.9.0
 generated: "2025-02-03T12:12:41.477008801Z"
